@@ -9,7 +9,9 @@ Usei o ChatGPT
 Solicitei com grandes detalhes a criação de uma imagem que transmitisse alegria e paz. Informei desde o tipo de roupa, o cenário e nacionalidade da mãe e do filho.
 
 ## 🚀 Resultados
-![Mãe brincando com o filho] Downloads/resultado%20final.webp
+<img src="Downloads/para/sua-imagem.webp" alt="esultado%20final.webp">
+
+
 
 
 

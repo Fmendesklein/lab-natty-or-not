@@ -9,7 +9,8 @@ Usei o ChatGPT
 Solicitei com grandes detalhes a criação de uma imagem que transmitisse alegria e paz. Informei desde o tipo de roupa, o cenário e nacionalidade da mãe e do filho.
 
 ## 🚀 Resultados
-<img src="Downloads/para/sua-imagem.webp" alt="esultado%20final.webp">
+<img src="imagens/resultado_final.webp" alt="Resultado final">
+
 
 
 

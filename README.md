@@ -3,13 +3,14 @@
 Minha ideia é eternizar atráves de uma imagem a alegria de brincar com meu filho. Acredito que muitas mães tem este desejo
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Usei o ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei com grandes detalhes a criação de uma imagem que transmitisse alegria e paz. Informei desde o tipo de roupa, o cenário e nacionalidade da mãe e do filho.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
